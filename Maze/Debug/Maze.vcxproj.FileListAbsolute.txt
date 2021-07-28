@@ -1,0 +1,2 @@
+C:\Users\seosi\source\repos\Maze\Debug\Maze.exe
+C:\Users\seosi\source\repos\Maze\Debug\Maze.pdb
